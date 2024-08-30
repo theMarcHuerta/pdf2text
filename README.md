@@ -103,9 +103,4 @@ License
 This project is licensed under the MIT License.
 
 
-### Summary
-
-This `README.md` file should provide a thorough guide to installing, running, and contributing to your project. It includes clear instructions for both setting up the development environment and creating standalone executables for distribution.
-
-
 
